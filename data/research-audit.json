@@ -1,0 +1,35 @@
+{
+  "source": {
+    "id": "R1",
+    "doi": "10.1177/01492063251323849",
+    "authors": ["Murod Aliyev", "Jeoung Yul Lee"],
+    "version": "2025 online-first, user-supplied 35-page PDF",
+    "table": 2,
+    "pdf_page": 21,
+    "outcome": "Return on Sales (ROS)",
+    "method": "Hierarchical linear modeling (HLM)",
+    "affiliates": 524,
+    "period": [1985, 2015],
+    "vertical_observations": 4104,
+    "horizontal_observations": 13791,
+    "notes": "Published aggregate transcription, not raw data or a replication. Observations are not counts of companies."
+  },
+  "historical_presentation": {"id": "I1", "pdf_page": 7},
+  "hypothesis_specific_models": [
+    {"id": "H1", "term": "F x G", "model": "M2", "coefficient": 0.263, "p_as_printed": ".000", "p_display": "< .001", "slide_coefficient": 0.172},
+    {"id": "H2", "term": "F x G x D", "model": "M3", "coefficient": 0.873, "p_as_printed": ".000", "p_display": "< .001", "slide_coefficient": 0.025},
+    {"id": "H3", "term": "F x G x R", "model": "M4", "coefficient": 0.571, "p_as_printed": ".044", "p_display": ".044", "slide_coefficient": 0.043},
+    {"id": "H4", "term": "F x G x Sn", "model": "M5", "coefficient": 0.063, "p_as_printed": ".018", "p_display": ".018", "slide_coefficient": 0.021},
+    {"id": "H5", "term": "F x G x Sz", "model": "M6", "coefficient": 0.329, "p_as_printed": ".001", "p_display": ".001", "slide_coefficient": 0.036}
+  ],
+  "selected_full_model_caveats": [
+    {"id": "H4", "model": "M7", "sample": "vertical", "coefficient": 0.062, "p": 0.057},
+    {"id": "H1", "model": "M7(H)", "sample": "horizontal", "coefficient": 0.833, "p": 0.075},
+    {"id": "H2", "model": "M7(H)", "sample": "horizontal", "coefficient": 1.104, "p": 0.051}
+  ],
+  "relocation_conflict": {
+    "group_paper": {"source_id": "G1", "pdf_page": 22, "reported_share": "one-third"},
+    "group_slides": {"source_id": "G2", "pdf_page": 38, "reported_share": "over 60%"},
+    "resolution": "Neither share is adopted as a verified company fact. Dates, denominator and capacity definitions need primary evidence."
+  }
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+<title id="title">制度壓力的特定性與破壞性：四種策略回應</title>
+<desc id="desc">橫軸特定性由低到高，縱軸破壞性由低到高。左上選擇性耦合，右上全面投入，左下象徵性管理，右下動態耦合。依Cui等人2023概念重繪，不是台達電實測定位。</desc>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#526a80"/></marker></defs>
+<rect width="1100" height="760" rx="16" fill="#f4f7fa"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans CJK TC', 'PingFang TC', sans-serif">
+<text x="60" y="60" fill="#122d47" font-size="30" font-weight="700">先辨識制度壓力，再選擇回應方式</text>
+<text x="60" y="96" fill="#526a80" font-size="18">特定性：壓力針對誰？　破壞性：威脅核心還是周邊業務？</text>
+<rect x="175" y="160" width="390" height="225" fill="#dcecf3" rx="10"/><rect x="585" y="160" width="390" height="225" fill="#e3e2f1" rx="10"/>
+<rect x="175" y="405" width="390" height="225" fill="#e9edf0" rx="10"/><rect x="585" y="405" width="390" height="225" fill="#dceee7" rx="10"/>
+<g fill="#122d47" font-size="25" font-weight="700"><text x="205" y="210">選擇性耦合</text><text x="615" y="210">全面投入</text><text x="205" y="455">象徵性管理</text><text x="615" y="455">動態耦合</text></g>
+<g fill="#526a80" font-size="17"><text x="205" y="243">Selective coupling</text><text x="615" y="243">Full engagement</text><text x="205" y="488">Symbolic management</text><text x="615" y="488">Dynamic coupling</text></g>
+<g fill="#314f68" font-size="19"><text x="205" y="293">保留多地選項與組織彈性</text><text x="205" y="327">同時承擔冗餘與協調成本</text><text x="615" y="293">面對明確且重大的壓力</text><text x="615" y="327">需要實質而深入的回應</text><text x="205" y="538">實質調整需求較低</text><text x="205" y="572">仍應評估正當性與溝通風險</text><text x="615" y="538">壓力明確，但核心影響較低</text><text x="615" y="572">依情境調整時機與參與方式</text></g>
+<g stroke="#526a80" stroke-width="2" marker-end="url(#a)"><path d="M150 655H1000"/><path d="M150 655V140"/></g>
+<g fill="#526a80" font-size="18"><text x="175" y="683">低特定性</text><text x="880" y="683">高特定性</text><text x="62" y="182">高破壞性</text><text x="62" y="622">低破壞性</text></g>
+<text x="60" y="731" fill="#62788d" font-size="14">依 Cui et al. (2023) 概念重繪 · 台達電的象限判斷來自課程分析，非實測結果</text>
+</g></svg>

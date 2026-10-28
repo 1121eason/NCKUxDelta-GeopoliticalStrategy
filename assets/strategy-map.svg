@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">台達電個案：從制度壓力到知識整合</title>
+<desc id="desc">三條分析主線連結生產配置、ESG信任機制與知識互補，再以試點和衡量檢驗建議。這是案例概念圖，非公司正式流程。</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#70879d"/></marker></defs>
+<rect width="1200" height="650" rx="20" fill="#f4f7fa"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans CJK TC', 'PingFang TC', sans-serif">
+<text x="54" y="57" fill="#526a80" font-size="15" letter-spacing="2">STRATEGY CASE · DELTA ELECTRONICS</text>
+<text x="54" y="105" font-size="33" font-weight="700" fill="#122d47">分散布局，如何維持整體競爭優勢？</text>
+<text x="54" y="142" font-size="19" fill="#526a80">制度壓力 → 管理選擇 → 執行與證據</text>
+<g fill="#fff" stroke="#d9e3ec"><rect x="54" y="184" width="340" height="242" rx="12"/><rect x="430" y="184" width="340" height="242" rx="12"/><rect x="806" y="184" width="340" height="242" rx="12"/></g>
+<g font-size="14" font-weight="700"><text x="80" y="218" fill="#26769b">01 · 全球生產配置</text><text x="456" y="218" fill="#328270">02 · ESG 與非市場策略</text><text x="832" y="218" fill="#78589a">03 · 知識與動態能力</text></g>
+<g font-size="23" font-weight="700" fill="#122d47"><text x="80" y="260">保留可調整的選項</text><text x="456" y="260">建立可核對的信任</text><text x="832" y="260">讓分散技術被使用</text></g>
+<g font-size="18" fill="#526a80"><text x="80" y="303">辨識產品與路徑曝險</text><text x="80" y="338">評估備援與移轉條件</text><text x="80" y="373">取捨：韌性與重複成本</text><text x="456" y="303">環境管理與透明揭露</text><text x="456" y="338">區分機制與財務歸因</text><text x="456" y="373">取捨：投入與可驗證價值</text><text x="832" y="303">找到 → 試作 → 移轉</text><text x="832" y="338">在地自主與跨單位互補</text><text x="832" y="373">取捨：專業差異與協調成本</text></g>
+<g stroke="#70879d" stroke-width="2" fill="none" marker-end="url(#arrow)"><path d="M224 426V464H600V488"/><path d="M600 426V488"/><path d="M976 426V464H600"/></g>
+<rect x="54" y="495" width="1092" height="94" rx="12" fill="#122d47"/>
+<text x="82" y="532" fill="#fff" font-size="23" font-weight="700">用有限試點檢驗策略：需求、品質、交付與完整成本</text>
+<text x="82" y="565" fill="#c7d9e8" font-size="18">先建立基準與責任，再決定擴展、調整或停止。</text>
+<text x="54" y="623" fill="#62788d" font-size="14">2025 課程個案的重新整理 · 圖中行動為分析與建議，未在企業實施或量測</text>
+</g></svg>
